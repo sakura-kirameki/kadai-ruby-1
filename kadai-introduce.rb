@@ -1,5 +1,5 @@
-myouji = '平山'
-na = '和可菜'
-num = 25 #年齢
+familyname = '平山'
+firstname = '和可菜'
+age = 25 #年齢
 
-puts myouji + na + 'です。' + num.to_s + '歳です。'
+puts familyname + firstname + 'です。' + age.to_s + '歳です。'
