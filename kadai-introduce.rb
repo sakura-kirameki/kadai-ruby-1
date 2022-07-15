@@ -1,7 +1,5 @@
 myouji = '平山'
 na = '和可菜'
-desu = 'です。'
-num = 25
-age = '歳'
+num = 25 #年齢
 
-puts myouji + na + desu + num.to_s + age + desu
+puts myouji + na + 'です。' + num.to_s + '歳です。'
